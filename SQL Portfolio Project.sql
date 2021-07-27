@@ -1,3 +1,9 @@
+--Covid 19 Data Exploration
+
+--Skills Used JOIN, SUM, MAX, CAST, CREATE TABLE, INSERT INTO--
+
+
+
 SELECT *
 From Portfolio_Project.dbo.['CovidDeaths']
 WHERE continent is not null
