@@ -1,6 +1,6 @@
 --Covid 19 Data Exploration
 
---Skills Used JOIN, SUM, MAX, CAST, CREATE TABLE, INSERT INTO--
+--Skills Used JOIN, SUM, MAX, CAST, CREATE TABLE, INSERT INTO
 
 
 
